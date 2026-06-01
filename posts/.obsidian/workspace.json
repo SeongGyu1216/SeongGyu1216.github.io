@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "58537f3bae2fe3c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab68f6ce249500e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869ed5b3dc42f16d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "성능 모델.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "성능 모델"
+            }
+          },
+          {
+            "id": "3ac70888404cf56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69246bdc5f560518",
+    "type": "split",
+    "children": [
+      {
+        "id": "41839aa7da6dd285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aa5c560a09b60c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "8afe3e6a2145cd8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "567c74d90bcf3c6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e36d507ca95be3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "85dcdbe60bfb5839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a59f771320eb9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "_index 의 백링크"
+            }
+          },
+          {
+            "id": "d4093463a94bf562",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "_index 의 나가는 링크"
+            }
+          },
+          {
+            "id": "ea221b4bb680adbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "0234036bdbe605ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "a491b04406b09945",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "_index 의 개요"
+            }
+          },
+          {
+            "id": "7bbb1a1162b6b05f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3ac70888404cf56a",
+  "lastOpenFiles": [
+    "무제.md",
+    "성능 모델.md",
+    "Source/성능 모델.png",
+    "Source/성능 모델.png",
+    "Source/성능 모델.png",
+    "Source",
+    "성능 모델.png",
+    "성능 모델.png",
+    "_templates_ignore/auto_image_convert.js",
+    "성능 모델.png",
+    "성능 모델.png",
+    "_templates_ignore/Rename_Image_Space_To_Encoded.md",
+    "Pasted image 20260527091528.png",
+    "_index.md",
+    "무제ㄹㄹㄹㄹ.md",
+    "_templates_ignore/Default Template.md",
+    "무제qqqqqqqqqqqq.md",
+    "markdown html 테스트.md",
+    "learning/Study/_index.md",
+    "learning/Study",
+    "learning/WIL - 복사본/_index.md",
+    "learning/WIL - 복사본",
+    "post/_index.md",
+    "post",
+    "portfolio/_index.md",
+    "learning/_index.md",
+    "모모모모모주조조조.md",
+    "learning/YIL/_index.md",
+    "learning/WIL/_index.md",
+    "learning/TIL/_index.md",
+    "learning/MIL/_index.md",
+    "learning/MIL/New Text.txt",
+    "learning/MIL",
+    "learning/WIL",
+    "learning/TIL",
+    "learning/YIL",
+    "ai.md",
+    "ai관련.md",
+    "dfdfdf.md",
+    "first-post.md",
+    "무제 test.md",
+    "test.md",
+    "무제aa.md",
+    "_template/Default Template.md",
+    "Pasted image 20260526153256.png"
+  ]
+}
